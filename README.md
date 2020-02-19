@@ -1,4 +1,4 @@
-# fabric-basic-network
+# Fabric-Network-4Orgs
 A basic fabric network based on the build your first network of fabric samples with 4 organizations.
 
 Each organization has 2 peers each and each peer has its own CouchDB container. The ordering service is RAFT made of 5 orderer nodes.
